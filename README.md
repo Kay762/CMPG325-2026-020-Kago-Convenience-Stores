@@ -47,3 +47,19 @@ The network is being designed and simulated using Cisco Packet Tracer.
 Project Status
 
 Milestone 1 — Client Design Review
+## Milestone 2 – Client Implementation Review
+
+The network implementation was completed in Cisco Packet Tracer.
+
+### Assigned Feature
+- Wireless LAN (AP integration and coverage)
+- AP1 and AP2 were configured for the two departments.
+- Four laptops were successfully connected to the access points.
+
+### Testing Evidence
+- Wireless connection tests were completed.
+- Gateway connectivity was tested from the wireless laptops.
+- Inter-VLAN connectivity was tested between the two departments.
+
+### Evidence
+Testing screenshots are available in the `05_Milestone2_Evidence` folder.
